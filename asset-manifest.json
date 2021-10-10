@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HeartDiseaseDetection/static/css/main.2dae0e0c.chunk.css",
+    "main.js": "/HeartDiseaseDetection/static/js/main.7e1a2dbf.chunk.js",
+    "main.js.map": "/HeartDiseaseDetection/static/js/main.7e1a2dbf.chunk.js.map",
+    "runtime-main.js": "/HeartDiseaseDetection/static/js/runtime-main.ce45ea11.js",
+    "runtime-main.js.map": "/HeartDiseaseDetection/static/js/runtime-main.ce45ea11.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/HeartDiseaseDetection/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.6b05280a.chunk.js": "/HeartDiseaseDetection/static/js/2.6b05280a.chunk.js",
+    "static/js/2.6b05280a.chunk.js.map": "/HeartDiseaseDetection/static/js/2.6b05280a.chunk.js.map",
+    "index.html": "/HeartDiseaseDetection/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/HeartDiseaseDetection/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.2dae0e0c.chunk.css.map": "/HeartDiseaseDetection/static/css/main.2dae0e0c.chunk.css.map",
+    "static/js/2.6b05280a.chunk.js.LICENSE.txt": "/HeartDiseaseDetection/static/js/2.6b05280a.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/HeartDiseaseDetection/static/media/a.5f35f730.png",
+    "static/media/logo4a.53f2b6e8.png": "/HeartDiseaseDetection/static/media/logo4a.53f2b6e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce45ea11.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.6b05280a.chunk.js",
+    "static/css/main.2dae0e0c.chunk.css",
+    "static/js/main.7e1a2dbf.chunk.js"
+  ]
+}
