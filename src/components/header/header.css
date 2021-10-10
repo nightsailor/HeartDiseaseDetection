@@ -1,0 +1,35 @@
+.hero-section{
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url('./a.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url('https://www.healthstatus.com/wp-content/uploads/2017/05/supplement-heart-heartbeat.jpg'); */
+}
+
+.hero-section .logo{
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+.hero-section .sub-heading{
+    margin-top: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    /* font-size: 35px; */
+    /* font-weight: 300; */
+
+    color: #fff;
+    background-color: #7551e9;
+    border-color: #7551e9;
+
+    backgorund-color: #df73ff;
+}
+
+/* .btn:hover {
+  color: #212529;
+  background-color: #fff;
+} */
