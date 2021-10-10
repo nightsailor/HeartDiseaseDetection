@@ -5,7 +5,6 @@ import "./topbar.css";
 import logo from "./logo4a.png"
 import userImg from "./user.png"
 
-
 export default function TopBar() {
   const user = window.localStorage.getItem("user");
 
@@ -15,16 +14,13 @@ export default function TopBar() {
   };
 
   return (
-      <nav className="navbar">
-        <div className="nav">
-          <img src={logo} className="brand-logo" alt="" />
-          {/* <p className="brand-logo">Cardio Disease Prediction</p> */}
-          <div className="nav-items">
-            <a href="#"><img src={userImg} alt="" /></a>
-          </div>
+    <nav className="navbar">
+      <div className="nav">
+        <img src={logo} className="brand-logo" alt="" />
+        <div className="nav-items">
+          <a href="#"><img src={userImg} alt="" /></a>
         </div>
-        {/* <ul className="links-container">
-        </ul> */}
-      </nav>
+      </div>
+    </nav>
   );
 }

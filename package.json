@@ -2,7 +2,7 @@
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nightsailor.github.io/data-day-grind",
+  "homepage": "https://nightsailor.github.io/HeartDiseaseDetection",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

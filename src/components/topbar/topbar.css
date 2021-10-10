@@ -8,11 +8,12 @@
 }
 
 .nav{
-    padding: 10px 10vw;
+    padding: 10px 10vw 10px 0;
     display: flex;
     justify-content: space-between;
     width: 100%;
-    margin-left: 45%;
+    margin-left: 44.5%;
+    /* border-bottom: 1px solid #d1d1d1; */
 }
 
 .brand-logo{
